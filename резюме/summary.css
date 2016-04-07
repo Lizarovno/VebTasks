@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+
+
+html {
+	background-color: grey;
+}
+
+body {
+	font-size: 1em;
+	background-color: rgb(255,255,255);
+	border: 3px solid rgb(75,75,75);
+	width:760px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 70px;
+	padding-top: 30px;
+}
+
+
+header {
+line-height:2px;
+	height: 220px;
+}
+
+.bold {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size:1em ;
+}
+
+h2 {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size:1em ;
+	margin: 0;
+}
+
+.left0 {
+	width: 50%;
+	float: left;
+}
+
+.right0 {
+	margin-left: 50%;
+}
+
+.left {
+    width: 150px;
+	float: left;
+}
+
+.right {
+margin-left: 160px;
+}
+
+img {
+	float: right;
+}
+
+ul {
+	padding-left:  0;
+}
+
+li {
+	list-style-position: inside;
+}
